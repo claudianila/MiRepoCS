@@ -1,0 +1,20 @@
+digraph G {
+	overlap=scale splines=true
+	edge [fontsize=12]
+	node [fillcolor="#cae6df" shape=circle style=filled]
+	F1 [label=F1]
+	F2 [label=F2]
+	node [shape=box style=""]
+	english [label=english]
+	faed [label=faed]
+	math [label=math]
+	moed [label=moed]
+	socsci [label=socsci]
+	vocab [label=vocab]
+	F1 -> math [label=1.000]
+	F1 -> socsci [label="0.998\np-val: 0.00"]
+	F1 -> vocab [label="0.985\np-val: 0.00"]
+	F2 -> moed [label=1.000]
+	F2 -> faed [label="1.637\np-val: 0.00"]
+	F2 -> english [label="11.612\np-val: 0.00"]
+}
