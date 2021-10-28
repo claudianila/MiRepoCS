@@ -33,9 +33,9 @@ cambio de forma
 ## Bloque 5. Análisis Discriminante Lineal, Clasificación y Técnicas de Arboles
 * 1	Análisis Discriminante Lineal
 * 2	Análisis de Conglomerados Jerárquicos
-
-Bibliografía base: 
-Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of Statistical Learning. Data Mining, Inference and Prediction. Second Edition. New York: Springer.
 * 3	Regresión con Árboles de Decisión
 * 4	Clasificación con Árboles de Decisión 
 * 5	Práctica de Análisis Discriminante Lineal, Clasificación y Técnicas de Arboles
+
+Bibliografía base: 
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). The elements of Statistical Learning. Data Mining, Inference and Prediction. Second Edition. New York: Springer.
